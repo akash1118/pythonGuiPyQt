@@ -5,4 +5,5 @@ pt2 = pt(6,16,987)
 
 print(pt1.srs)
 print(pt1.distance_to(pt2))
-print(pt1)
+print(pt2)
+print(type(pt1))
